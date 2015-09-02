@@ -1,5 +1,5 @@
 {
-  "name": "marquee",
+  "name": "github-marquee",
   "version": "1.0.0",
   "description": "Writes a message to the GitHub Contributions calendar matrix.",
   "scripts": {
