@@ -1,0 +1,15 @@
+{
+  "name": "marquee",
+  "version": "1.0.0",
+  "description": "Writes a message to the GitHub Contributions calendar matrix.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zachary Flower",
+  "license": "WTFPL",
+  "preferGlobal": true,
+  "bin": {
+    "marquee": "index.js"
+  },
+  "engine": "node >= 0.12.7"
+}
