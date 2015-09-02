@@ -5,6 +5,8 @@ order to write a message on your GitHub contibution summary graph.
 
 ## Example
 
+![Marquee Example](/images/example.png)
+
 ## Installation
 
 ```
