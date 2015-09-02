@@ -1,11 +1,16 @@
 {
   "name": "github-marquee",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Writes a message to the GitHub Contributions calendar matrix.",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Zachary Flower",
+  "repository": { 
+    "type" : "git",
+    "url" : "https://github.com/zachflower/marquee.git"
+  },
+  "bugs": "https://github.com/zachflower/marquee/issues",
+  "author": "Zachary Flower <zach@zacharyflower.com> (http://zacharyflower.com)",
   "license": "WTFPL",
   "preferGlobal": true,
   "bin": {
