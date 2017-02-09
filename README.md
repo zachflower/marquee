@@ -12,6 +12,13 @@ order to write a message on your GitHub contibution summary graph.
 ```
 npm install github-marquee
 ```
+### Requirements
+
+```
+# Install the git-stats package globally
+npm i -g git-stats
+```
+https://github.com/IonicaBizau/git-stats
 
 ## Usage
 
