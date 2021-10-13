@@ -1,7 +1,7 @@
-# Marquee
+# `</marquee>`
 
-Marquee is a command-line Node.js app that creates back-dated Git commits in
-order to write a message on your GitHub contibution summary graph.
+`</marquee>` is a command-line Node.js app that creates back-dated Git commits in
+order to write a message on your GitHub contribution summary graph.
 
 ## Example
 
@@ -20,7 +20,7 @@ a few steps.
 
 ### Step 1: Create a New Directory
 
-Marquee is designed to work on a brand new repository. Because we are
+`</marquee>` is designed to work on a brand new repository. Because we are
 manipulating history, it is a *really bad* idea to use this on an existing
 repository.
 
@@ -39,12 +39,12 @@ $ marquee <message>
 
 ### Step 3: Create a Public GitHub Repository
 
-Marquee only creates a contribution history, it does not interface directly
+`</marquee>` only creates a contribution history, it does not interface directly
 with GitHub. After you've set up your commits, head over to
 https://github.com/new and create a new repository.
 
 Be sure to leave "Initialize this repository with a README" unchecked, and do
-not add a license or .gitignore.
+not add a license or `.gitignore`.
 
 ### Step 4: Push Your New Repository
 
